@@ -1,7 +1,5 @@
 ### hey there 
 <br />
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76864866/249729036-b370293e-293e-459b-af79-dba9dde8b3ea.gif?raw=true" width="500" height="320" />
-  
 - 💼 any freelance work? do reach, [email](mailto:nguyenduchuy010202@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
@@ -28,6 +26,7 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/76864866/249729036-b370293e-293e-459b-af79-dba9dde8b3ea.gif?raw=true" width="500" height="320" />
 
 📈 my github stats
 
